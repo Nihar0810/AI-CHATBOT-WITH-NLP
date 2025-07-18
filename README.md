@@ -58,4 +58,6 @@ The script is lightweight and can run on low-resource machines without requiring
 
 Conclusion The AI Chatbot with NLP is a simple yet effective demonstration of how human-computer interaction can be simulated using natural language techniques. It introduces core ideas like intent matching, pattern recognition, and response generation. Though basic in design, the chatbot provides a foundation for more complex systems involving machine learning, real-time APIs, or integration with web platforms. Its simplicity and modularity make it ideal for beginners and for academic purposes in AI and NLP courses.
 
-Output
+Output : 
+
+<img width="1918" height="928" alt="Image" src="https://github.com/user-attachments/assets/4c2d1230-a198-4fc3-9a6d-dae083004929" />
